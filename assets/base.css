@@ -83,7 +83,7 @@
 }
 
 body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
-  max-width: 100%;
+  max-width: 99%;
 }
 
 .page-width.drawer-menu {
